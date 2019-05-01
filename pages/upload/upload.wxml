@@ -1,0 +1,4 @@
+<!--pages/upload/upload.wxml-->
+<view bindtap="uploadMore">
+  上传功能
+</view>
